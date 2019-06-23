@@ -7,3 +7,5 @@
 [![Build status](https://secure.travis-ci.org/bangn/mlt.svg)](https://travis-ci.org/bangn/mlt)
 
 Multi language translator
+
+NOTES: Nothing here yet. Come back later :)
